@@ -10,12 +10,17 @@
 #
 #Version: 1.0
 #
-#Usage: Tested on Linux Mint and that's it ngl. This is for personal use.
+
+# Exit if any command fails
+set -e
+
+# Navigate to the script's directory
+cd "$(dirname "$(readlink -f "$0")")"
 
 #1. We send a new line of text with the date and time to records.txt.
 echo "Commit date: $(date)" >> records.txt
 
-#2. Comandos de git para hacer el commit.
+#2. Git commands to make the commit.
 git add records.txt
-git commit -m "Cheeky is in action! Commited on $(date)."
+git commit -m "Cheeky is in action! Totally legit commit on $(date)."
 git push
