@@ -35,22 +35,30 @@ chmod +x cheeky.sh
 
 ## :neckbeard: Beginner Setup Guides
 
-Need help setting things up?
+Need **help** setting things up?
 
 - 🔐 [SSH Setup Guide (Beginner-Friendly)](/docs/SSH-setup-guide.md)
 - ⏰ [Cron & Crontab Guide](/docs/cron-setup-guide.md)
 
-These explain everything in plain English (_and a bit of sarcasm_), highly recommended.
-s
+These explain everything in plain English (_and a bit of sarcasm_), **highly recommended**.
 
 ## 🧪 Tested On:
 
 ✅ Linux Mint 22.1 Cinnamon (_and that's basically it_) :trollface:
 
+## 🌟 Like Cheeky?
+
+If this little bot made you chuckle, helped you keep your streak alive or taught you a thing or two about Bash; **consider leaving a ⭐️**!
+
+I'm totally **open to contributions**, especially if you want to adapt Cheeky for other operating systems. Feel free to fork, PR or open an issue!
+
+**Special thanks to [@AMarqs](https://github.com/AMarqs)** who kindly lent me an iPad so I could draw Cheeky’s beautiful face. ❤️
+
 ## 💌 Contact:
 
-Written with ꨄ︎ by **Sara Leite**.
+Written with ꨄ︎ by **Sara Leite** - shell script enjoyer and professional cheeky automator.
 
-[LinkedIn](https://www.linkedin.com/in/saraleitexyz)
+🔗 [LinkedIn](https://www.linkedin.com/in/saraleitexyz)  
+🐙 [GitHub](https://github.com/saraleitexyz)
 
-**Questions?** Open an issue or shout into the void.
+Thanks for stopping by! See ya! ♡
