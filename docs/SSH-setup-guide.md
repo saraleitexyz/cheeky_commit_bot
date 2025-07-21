@@ -2,9 +2,9 @@
 
 ## ℹ️ Purpose of this guide:
 
-I barely knew about how to set SSH keys before writing this (_I was a **noob** who only knew the theory_), so I'm making this guide to guide others like me who want to learn more ~~or those who want to make their GitHub as green as an Irish pasture.~~
+I barely knew about how to set SSH keys before writing this (_I wass a **noob** who only knew the theory_), so I'm making this guide to guide others like me who want to learn more ~~or those who want to make their GitHub as green as an Irish pasture.~~
 
-![Field with cows](/docs/illiya-vjestica-%20fields.jpg)
+![Field with cows](/images/illiya-vjestica-%20fields.jpg)
 
 > Photo by <a href="https://unsplash.com/@illiyapresents?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Illiya Vjestica</a> on <a href="https://unsplash.com/photos/herd-of-sheep-on-green-grass-field-during-daytime-W5FdAcHp7l8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 

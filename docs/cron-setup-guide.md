@@ -4,7 +4,7 @@
 
 Let's learn how to use cron and crontab without summoning a daemon from the 9th circle of Bash. :feelsgood:
 
-![Hell](/docs/chris-barbalis-hell.jpg)
+![Hell](/images/chris-barbalis-hell.jpg)
 
 > Photo by <a href="https://unsplash.com/@cbarbalis?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Chris Barbalis</a> on <a href="https://unsplash.com/photos/silhouette-photography-of-trees-aX4zU9Rp7jo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
@@ -40,7 +40,7 @@ Open the terminal and type:
 
 Here's the structure of a Cron Job:
 
-![Structure of a Cron Job](/docs/cron-job-structure.png)
+![Structure of a Cron Job](/images/cron-job-structure.png)
 
 To run Cheeky twice a day, I added a new line like this:
 
