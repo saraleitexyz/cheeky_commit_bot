@@ -2,7 +2,7 @@
 #
 #Script name: cheeky.sh
 #
-#Description: This bot commits to GitHub once a day if the computer is on.
+#Description: This script adds a new line to a txt and commits to a repository on GitHub.
 #
 #Author: Sara Leite - saraleite.mail@gmail.com
 #
@@ -17,7 +17,7 @@ set -e
 # Navigate to the script's directory
 cd "$(dirname "$(readlink -f "$0")")"
 
-#1. We send a new line of text with the date and time to records.txt.
+#1. Send a new line of text with the date and time to records.txt.
 echo "Commit date: $(date)" >> records.txt
 
 #2. Git commands to make the commit.
